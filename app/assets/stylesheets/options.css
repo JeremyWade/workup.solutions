@@ -1,0 +1,153 @@
+/* 
+*	=================================================================================================================================================
+*	GENERATED CSS FILE
+*	=================================================================================================================================================
+*/
+
+
+
+body {
+    font-family: Roboto;
+    font-weight: 300;    font-style: ;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444444;
+    background-color: #fff;
+	background-image:  url('');     background-repeat: ;     background-position: ;    background-size: ;    background-attachment: ;}
+
+.oi_legend {
+    font-family: Josefin Slab;
+    font-weight: 400;    font-style: ;
+    font-size: 44px;
+    line-height: 50px;
+    color: #222;
+}
+
+.oi_sub_legend {
+    font-family: Josefin Slab;
+    font-weight: 400;    font-style: ;
+    font-size: 30px;
+    line-height: 36px;
+    color: #222;
+}
+
+
+
+
+h1 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 36px;
+    line-height: 40px;
+    color: #222;
+}
+
+h2 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 30px;
+    line-height: 34px;
+    color: #222;
+}
+
+
+h3 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 24px;
+    line-height: 28px;
+    color: #222;
+}
+
+
+h4 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 18px;
+    line-height: 20px;
+    color: #222;
+}
+
+h5 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 16px;
+    line-height: 18px;
+    color: #222;
+}
+
+h6 {
+    font-family: Open Sans;
+    font-weight: 300;    font-style: ;
+    font-size: 14px;
+    line-height: 16px;
+    color: #222;
+}
+a { color:#ff3b2f}
+a:hover {color:#ff3b2f}
+.page-numbers.current { color:#ff3b2f}
+.colored {color: #ff3b2f; }
+.current-menu-item a, .current-menu-parent a{ border-bottom:1px solid #ff3b2f;}
+.oi_soc_header a:hover { color:#ff3b2f; }
+#scroll_to_content a:hover { text-decoration:none; color:#ff3b2f; border-color:#ff3b2f}
+.post-categories li:not(.current-menu-item):not(.current-menu-parent) a:after {
+    background: #ff3b2f;
+}
+.post-categories li:not(.current-menu-item):not(.current-menu-parent) a:hover:before {
+    background: #ff3b2f;
+}
+.oi_header_menu ul > li > a:hover { color:#ff3b2f}
+.oi_header_menu ul > li.current-menu-item > a { color:#ff3b2f}
+.oi_breadcrumbs a:hover { color:#ff3b2f; text-decoration:none;}
+.oi_add_post_like:hover strong { color:#ff3b2f;}
+.oi_add_post_like.oi_already_post_liked strong {color:#ff3b2f;}
+.oi_already_post_liked  .oi_like_post_count {color:#ff3b2f;}
+.oi_blog_post_cat.oi_already_post_liked  { color:#ff3b2f}
+.oi_readmore_btn:hover { color:#ff3b2f; text-decoration:none;}
+.oi_blog_post_meta_holder {color:#ff3b2f}
+.oi_ddate { color:#ff3b2f; border-bottom:1px solid #ff3b2f; }
+.oi_blog_post_cat a:after, .oi_readmore_btn:after {
+    background: #ff3b2f;
+}
+.oi_blog_post_cat a:hover:before, .oi_readmore_btn:hover:before {
+    background: #ff3b2f;
+}
+.link_post .link_date { color:#ff3b2f; border-bottom:1px solid #ff3b2f;}
+.link_url .blog_title_a:hover { color:#ff3b2f}
+.wpcf7 input.wpcf7-submit:hover { color:#ff3b2f}
+.oi_content_btn:hover {color:#ff3b2f;}
+.comment-form input#submit:hover { color:#ff3b2f}
+#load_more_port_masorny_posts:hover { color:#ff3b2f; }
+@media (min-width: 0px) and (max-width: 767px) {
+	.post-categories > li.current-menu-item > a { color:#ff3b2f}
+    .post-categories li.active { background:#ff3b2f}
+}
+#wp-calendar a { color:#ff3b2f}
+#wp-calendar caption { color:#ff3b2f}
+.oi_tweet a:hover { color:#ff3b2f; }
+.oi_tweet_time > a.twitter_time { color:#ff3b2f; }
+.oi_widget ul:not(#cbox):not(.oi_instagram_widget_ul) li a:hover { text-decoration:none; opacity:1; color:#ff3b2f;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
